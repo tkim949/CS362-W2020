@@ -5,7 +5,7 @@ Created on Tue Oct 13 15:42:42 2015
 @author: tfleck
 """
 
-import Dominion
+from projects.roberwen.dominion import Dominion
 import random
 from collections import defaultdict
 
