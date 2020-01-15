@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb084005-bd83-49c2-8883-a112f485b09c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/projects/kimtaeky/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/kimtaeky/dominion/Dominion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/kimtaeky/dominion/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/kimtaeky/dominion/REPLdominion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/kimtaeky/dominion/playDominion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dominion/playDominion.py" beforeDir="false" afterPath="$PROJECT_DIR$/dominion/playDominion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/roberwen/dominion/playDominion.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/roberwen/dominion/playDominion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578618810892</updated>
-      <workItem from="1579026274269" duration="4730000" />
+      <workItem from="1579026274269" duration="4912000" />
     </task>
     <servers />
   </component>
